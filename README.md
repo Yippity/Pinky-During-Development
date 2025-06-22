@@ -9,4 +9,4 @@ Enhancement 2: inclusion of the language filtration algorithm. Pinky's language 
 
 Enhancement 3: overhaul of reaction role feature. Converted storage of data necessary to reaction role functionality from JSON format to SQLite. Using a database improves the features speed and scalability greatly.
 
-Final Enhancements: loose collection of further enhancements made beyond the scope of the original project guidelines. Includes password-based protection of Pinky's now encrypted token, audio streaming (WIP), and improvements to the language filtration algorithm
+Other Enhancements: loose collection of further enhancements made beyond the scope of the original project guidelines. Includes password-based protection of Pinky's now encrypted token, audio streaming (WIP), and improvements to the language filtration algorithm
